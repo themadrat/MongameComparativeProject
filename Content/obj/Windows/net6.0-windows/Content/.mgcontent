@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/18WheelerSprite64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/18WheelerSprite64left.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/4DoorSedanSprite64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/BarricadeTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/barrier.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/Button.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/Button2.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/ChknCoopTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/CoolCarSprite64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/DuckSprite.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/DuckSprite64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/GrassTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/LowerSidewalkTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/Road.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/RoadTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/TaxiSprite64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Assets/UpperSidewalkTile64.png</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Fonts/BigFont.spritefont</File>
+    <File>C:/Users/Jared/source/repos/MongameComparativeProject/Content/Fonts/Font.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
